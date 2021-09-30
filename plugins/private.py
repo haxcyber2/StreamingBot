@@ -59,8 +59,6 @@ HELP_TEXT = """
 \u2022 `/setvar` - set/change heroku configs
 \u2022 `/getlogs` - get the ffmpeg & bot logs
 
-© **Powered By** : 
-**@AsmSafone | @SafoTheBot** 👑
 """
 
 admin_filter=filters.create(is_admin) 
